@@ -1,0 +1,1 @@
+Sosal.exe by TRIFK 2025/

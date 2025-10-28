@@ -1,1 +1,1 @@
-Sosal.exe by TRIFK 2025/
+oneloveloto by TRIFK 2025@

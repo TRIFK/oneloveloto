@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "c:\Users\stask\Desktop\MusicalLoto\musical_loto.py", line 532, in <module>
+    main()
+    ~~~~^^
+  File "c:\Users\stask\Desktop\MusicalLoto\musical_loto.py", line 524, in main
+    window = MainWindow()
+  File "c:\Users\stask\Desktop\MusicalLoto\musical_loto.py", line 391, in __init__
+    self._build_grid()
+    ~~~~~~~~~~~~~~~~^^
+  File "c:\Users\stask\Desktop\MusicalLoto\musical_loto.py", line 402, in _build_grid
+    btn.clicked_with_index.connect(self.on_barrel_clicked)
+                                   ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'on_barrel_clicked'
